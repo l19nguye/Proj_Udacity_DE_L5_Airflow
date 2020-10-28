@@ -1,0 +1,11 @@
+{
+    "ARTIST_TABLE": "artists",
+    "LOG_DATA": "s3://udacity-dend/log_data/",
+    "SONGPLAY_TABLE": "songplays",
+    "SONG_DATA": "s3://udacity-dend/song_data/A/B",
+    "SONG_TABLE": "songs",
+    "STAGING_EVENTS": "staging_events",
+    "STAGING_SONGS": "staging_songs",
+    "TIME_TABLE": "time",
+    "USER_TABLE": "users"
+}
